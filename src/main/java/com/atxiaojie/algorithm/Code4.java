@@ -5,7 +5,6 @@ package com.atxiaojie.algorithm;
  * @Description: 题目：将一个正整数分解质因数。例如：输入90,打印出90=2*3*3*5。
  * @author: zhouxiaojie
  * @date: 2022/1/19 14:27
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Code4 {
