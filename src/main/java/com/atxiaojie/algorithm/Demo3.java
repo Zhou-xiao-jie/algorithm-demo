@@ -16,7 +16,6 @@ import java.util.Map;
  *
  * @author: zhouxiaojie
  * @date: 2022/1/24 13:44
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Demo3 {
