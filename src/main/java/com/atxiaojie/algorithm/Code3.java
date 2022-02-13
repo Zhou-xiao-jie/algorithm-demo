@@ -8,7 +8,6 @@ import java.util.Scanner;
  * 因为153=1的三次方＋5的三次方＋3的三次方。
  * @author: zhouxiaojie
  * @date: 2022/1/19 14:04
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Code3 {
