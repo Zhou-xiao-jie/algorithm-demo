@@ -7,7 +7,6 @@ package com.atxiaojie.algorithm;
  * 1.程序分析：   兔子的规律为数列1,1,2,3,5,8,13,21....
  * @author: zhouxiaojie
  * @date: 2022/1/19 13:28
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Code1 {
