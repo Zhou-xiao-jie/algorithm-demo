@@ -5,7 +5,6 @@ package com.atxiaojie.algorithm;
  * @Description: 题目：一球从100米高度自由落下，每次落地后反跳回原高度的一半；再落下，求它在   第10次落地时，共经过多少米？第10次反弹多高？
  * @author: zhouxiaojie
  * @date: 2022/1/19 14:57
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Code6 {
