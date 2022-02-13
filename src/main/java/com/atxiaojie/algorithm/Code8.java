@@ -6,7 +6,6 @@ package com.atxiaojie.algorithm;
  * 第二天早上又将剩下的桃子吃掉一半，又多吃了一个。以后每天早上都吃了前一天剩下的一半零一个。到第10天早上想再吃时，见只剩下一个桃子了。求第一天共摘了多少。
  * @author: zhouxiaojie
  * @date: 2022/1/19 15:30
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Code8 {
