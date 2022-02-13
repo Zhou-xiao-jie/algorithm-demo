@@ -5,7 +5,6 @@ package com.atxiaojie.algorithm;
  * @Description: TODO
  * @author: zhouxiaojie
  * @date: 2022/1/21 15:14
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Test extends Father{
