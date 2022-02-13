@@ -2,10 +2,9 @@ package com.atxiaojie.algorithm;
 
 /**
  * @ClassName: maopaoSort
- * @Description: TODO
+ * @Description: 冒泡排序算法
  * @author: zhouxiaojie
  * @date: 2022/1/21 19:24
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class MaoPaoSort {
