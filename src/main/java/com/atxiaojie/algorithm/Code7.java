@@ -5,7 +5,6 @@ package com.atxiaojie.algorithm;
  * @Description: 题目：有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
  * @author: zhouxiaojie
  * @date: 2022/1/19 15:13
- * @copyright: 杭州鸿泉物联网技术股份有限公司
  * @Version: V1.0.0
  */
 public class Code7 {
